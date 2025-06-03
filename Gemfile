@@ -41,7 +41,7 @@ gem "thruster", require: false
 # gem "image_processing", "~> 1.2"
 gem 'devise', '~> 4.9'
 gem 'chartkick', '~> 5.0'
-gem 'groupdate', '~> 6.4'
+gem 'groupdate', '~> 6.7'
 gem 'sass-rails', '~> 6.0'
 
 group :development, :test do
