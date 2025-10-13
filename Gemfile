@@ -40,7 +40,7 @@ gem "thruster", require: false
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 gem 'devise', '~> 4.9'
-gem 'chartkick', '~> 5.0'
+gem 'chartkick', '~> 5.2'
 gem 'groupdate', '~> 6.4'
 gem 'sass-rails', '~> 6.0'
 
